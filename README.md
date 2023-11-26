@@ -1,6 +1,5 @@
-- Hi, I’m @artnovak
-- ’m interested in ...
-- Hi, my name is Tema, I have been developing in the IT field for 3 years now. At the moment I am focused on SRE engineering and python.  
+- Hi, my name is Tema,
+- I have been developing in the IT field for 3 years now. At the moment I am focused on SRE engineering and python.  
 This year I dedicate to OOP and hurry to implement it to the maximum in my projects. 
 - I would be glad to work on projects together and be part of a great community.
 
